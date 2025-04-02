@@ -44,6 +44,7 @@
 
 　最大16種類のROMイメージを切り替え可能です。
 
+
 ## 32KROM Multi Cartridge
 ### 回路図
 　KiCadフォルダ内のPYUTA32k.pdfを参照してください。
