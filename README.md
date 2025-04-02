@@ -8,7 +8,7 @@
 
 　公開されているROMイメージには(>8000～)、(>4000～)の二種類があり、それぞれ(>8000～)用の16K(8K)ROM Multi Cartridgeと(4000～)用の32KROM Multi Cartridgeを使用します。
 
-#### 注)初代ぴゅう太で32KROM Multi Cartridgeを使用するにはゲームアダプター相当品が必要です。初代ぴゅう太のカートリッジスロットに直接挿入しても動作しません。
+#### 注)32KROM Multi Cartridgeを初代ぴゅう太で使用するにはゲームアダプター相当品が必要です。初代ぴゅう太のカートリッジスロットに32KROM Multi Cartridgeを挿入しても動作しません。
 
 　16K(8K)ROM Multi Cartridgeはぴゅう太、ぴゅう太mk2で動作確認、32KROM Multi Cartridgeはぴゅう太+ゲームアダプター相当品、ぴゅう太mk2で動作確認を行いましたが、ぴゅう太Jr.も両方とも動作すると思います。
 
